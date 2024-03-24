@@ -11,16 +11,15 @@ My team is trying to venture into the Indian start-up ecosystem. As the data exp
 
 
 ### Team Lead
-Ntuk, Etebom
+Michael Odumanye
 
 
 ## Collaborators
-Mohammed Idris
-Etebom Ntuk
-Elvis Obeng Yeboah
-Prince Acquah Rockson
-Celestine Jerop Kaplelach
-Andy Konney
+Michael Odumanye
+Isaac Asanta-Kwatia
+Esawo Kevin
+Nana Kwamina Egyir Eyison
+Dogbo Winnie
 
 The Dataset are from 3 different sources, github, sql server and onedrive
 ## to start, create a virtual environment using the script below
