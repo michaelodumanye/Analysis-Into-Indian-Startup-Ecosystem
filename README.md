@@ -17,6 +17,11 @@ Data-Driven Insights: Our analysis is powered by data, providing actionable insi
 
 Hypothesis Testing: We challenge assumptions and explore hypotheses to uncover hidden patterns and trends within India's startup ecosystem.
 
+<img width="608" alt="Screenshot 2024-03-26 005952" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/eaf6f3b9-203b-4d48-8422-16c3427ace98">
+
+<img width="588" alt="Screenshot 2024-03-26 005719" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/db63baa6-cdfe-40be-a4ab-51ec8a3e356a">
+
+
 Regional Investment Hotspots: Discover which cities are leading the charge in startup investments and why they're the go-to destinations for entrepreneurs and investors alike.
 
 Investor Profiles: Get to know the movers and shakers of India's investment landscape, from venture capital firms to angel investors, and understand their investment philosophies and preferences.
