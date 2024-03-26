@@ -15,6 +15,19 @@ Global Impact: Indian startups are not just disrupting local markets; they're ma
 What You'll Find in This Repository
 Data-Driven Insights: Our analysis is powered by data, providing actionable insights into funding distribution, regional dynamics, emerging sectors, and investor preferences.
 
+<img width="538" alt="Screenshot 2024-03-26 010547" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/4aa4be3f-32a3-4e9b-95ff-327203f22a5d">
+
+<img width="800" alt="Screenshot 2024-03-26 010624" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/de109a4e-850a-44ab-9f1a-3d83ca9efead">
+
+<img width="378" alt="Screenshot 2024-03-26 010639" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/d3831f79-eb44-4a78-951f-87376d2fb3ea">
+
+<img width="795" alt="Screenshot 2024-03-26 010709" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/fdc7a5f9-652e-49d5-9c67-cd7cdc8d9939">
+
+<img width="794" alt="Screenshot 2024-03-26 010839" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/828211c5-3721-496d-9877-3b9d80726ddc">
+
+<img width="788" alt="Screenshot 2024-03-26 010858" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/9b8cced8-14b8-4ae8-b50d-9c74f745486c">
+
+
 Hypothesis Testing: We challenge assumptions and explore hypotheses to uncover hidden patterns and trends within India's startup ecosystem.
 
 <img width="608" alt="Screenshot 2024-03-26 005952" src="https://github.com/michaelodumanye/Analysis-Into-Indian-Startup-Ecosystem/assets/160058410/eaf6f3b9-203b-4d48-8422-16c3427ace98">
